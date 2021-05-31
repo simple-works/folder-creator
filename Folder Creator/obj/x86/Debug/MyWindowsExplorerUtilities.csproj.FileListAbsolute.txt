@@ -1,0 +1,10 @@
+C:\Users\Ambratolm\Desktop\MyWindowsExplorerUtilities\MyWindowsExplorerUtilities\bin\Debug\MyWindowsExplorerUtilities.exe
+C:\Users\Ambratolm\Desktop\MyWindowsExplorerUtilities\MyWindowsExplorerUtilities\bin\Debug\MyWindowsExplorerUtilities.pdb
+C:\Users\Ambratolm\Desktop\MyWindowsExplorerUtilities\MyWindowsExplorerUtilities\obj\x86\Debug\MyWindowsExplorerUtilities.Form1.resources
+C:\Users\Ambratolm\Desktop\MyWindowsExplorerUtilities\MyWindowsExplorerUtilities\obj\x86\Debug\MyWindowsExplorerUtilities.Properties.Resources.resources
+C:\Users\Ambratolm\Desktop\MyWindowsExplorerUtilities\MyWindowsExplorerUtilities\obj\x86\Debug\MyWindowsExplorerUtilities.csproj.GenerateResource.Cache
+C:\Users\Ambratolm\Desktop\MyWindowsExplorerUtilities\MyWindowsExplorerUtilities\obj\x86\Debug\MyWindowsExplorerUtilities.exe
+C:\Users\Ambratolm\Desktop\MyWindowsExplorerUtilities\MyWindowsExplorerUtilities\obj\x86\Debug\MyWindowsExplorerUtilities.pdb
+C:\Users\Ambratolm\Desktop\MyWindowsExplorerUtilities\MyWindowsExplorerUtilities\obj\x86\Debug\MyWindowsExplorerUtilities.csprojResolveAssemblyReference.cache
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Folder Creator\Folder Creator\obj\x86\Debug\MyWindowsExplorerUtilities.exe
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Folder Creator\Folder Creator\obj\x86\Debug\MyWindowsExplorerUtilities.pdb

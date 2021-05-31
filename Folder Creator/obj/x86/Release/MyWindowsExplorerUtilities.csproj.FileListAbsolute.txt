@@ -1,0 +1,9 @@
+C:\Users\Ambratolm\Desktop\MyWindowsExplorerUtilities\MyWindowsExplorerUtilities\bin\Release\MyWindowsExplorerUtilities.exe
+C:\Users\Ambratolm\Desktop\MyWindowsExplorerUtilities\MyWindowsExplorerUtilities\bin\Release\MyWindowsExplorerUtilities.pdb
+C:\Users\Ambratolm\Desktop\MyWindowsExplorerUtilities\MyWindowsExplorerUtilities\obj\x86\Release\MyWindowsExplorerUtilities.Form1.resources
+C:\Users\Ambratolm\Desktop\MyWindowsExplorerUtilities\MyWindowsExplorerUtilities\obj\x86\Release\MyWindowsExplorerUtilities.Properties.Resources.resources
+C:\Users\Ambratolm\Desktop\MyWindowsExplorerUtilities\MyWindowsExplorerUtilities\obj\x86\Release\MyWindowsExplorerUtilities.csproj.GenerateResource.Cache
+C:\Users\Ambratolm\Desktop\MyWindowsExplorerUtilities\MyWindowsExplorerUtilities\obj\x86\Release\MyWindowsExplorerUtilities.exe
+C:\Users\Ambratolm\Desktop\MyWindowsExplorerUtilities\MyWindowsExplorerUtilities\obj\x86\Release\MyWindowsExplorerUtilities.pdb
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\MyWindowsExplorerUtilities\MyWindowsExplorerUtilities\obj\x86\Release\MyWindowsExplorerUtilities.exe
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\MyWindowsExplorerUtilities\MyWindowsExplorerUtilities\obj\x86\Release\MyWindowsExplorerUtilities.pdb
